@@ -60,12 +60,12 @@ Run the Script: Type the following command to run your Python script:
 
 bash
 Copy code
-python pdf_merger.py
+python pdfmerged.py
 If you are using Python 3 specifically, you might need to use:
 
 bash
 Copy code
-python3 pdf_merger.py
+python3 pdfmerged.py
 Using an IDE
 If you're using an IDE like PyCharm or Visual Studio Code:
 

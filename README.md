@@ -1,5 +1,5 @@
 # GUI_PDF-merged
-DF merging tool to allow uploading unlimited PDF files for merging! The current implementation already supports adding multiple PDFs, but let's clarify and enhance it a bit more for a smoother experience.
+PDF merging tool to allow uploading unlimited PDF files for merging! The current implementation already supports adding multiple PDFs, but let's clarify and enhance it a bit more for a smoother experience.
 Step-by-Step Enhancements for Unlimited PDF Uploading
 Add Functionality: The tool allows you to add as many PDF files as you want without a limit.
 Display Information: Update the interface to give feedback on the number of files added.
